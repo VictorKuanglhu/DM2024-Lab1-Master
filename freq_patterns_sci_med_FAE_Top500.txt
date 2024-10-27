@@ -1,0 +1,500 @@
+came:29 
+means:27 
+haven:27 
+happen:27 
+originator:27 
+saw:26 
+anybody:26 
+1993apr15:26 
+simply:25 
+possibly:25 
+completely:25 
+communications:25 
+treating:25 
+aka:25 
+highly:25 
+29:25 
+except:25 
+seeing:25 
+appreciate:25 
+needed:25 
+single:25 
+unfortunately:24 
+newsreader:24 
+extremely:24 
+took:24 
+below:24 
+aren:24 
+approach:24 
+chemical:24 
+history:24 
+nose:23 
+mass:23 
+necessary:23 
+company:23 
+easy:23 
+treated:23 
+night:23 
+normally:23 
+change:23 
+connection:23 
+wasn:23 
+mentioned:23 
+generally:23 
+advance:23 
+indeed:22 
+wants:22 
+comes:22 
+couldn:22 
+charles:22 
+typical:22 
+word:22 
+lack:22 
+later:22 
+25:22 
+frequently:22 
+discussion:22 
+along:21 
+continue:21 
+deal:21 
+medication:21 
+responsible:21 
+necessarily:21 
+business:21 
+healthy:21 
+special:21 
+becomes:21 
+testing:21 
+directly:21 
+disclaimer:21 
+28:21 
+longer:21 
+basis:21 
+guest:20 
+myself:20 
+situation:20 
+26:20 
+boston:20 
+develop:20 
+flavor:20 
+anyway:20 
+discovered:20 
+reduce:20 
+beyond:20 
+lost:20 
+areas:20 
+appears:20 
+therefore:20 
+add:20 
+contain:20 
+story:20 
+paper:20 
+oral:20 
+needs:20 
+currently:20 
+future:20 
+nor:20 
+internal:20 
+hear:20 
+review:20 
+guess:20 
+decided:20 
+trouble:19 
+instead:19 
+tin:19 
+32:19 
+sounds:19 
+daniel:19 
+headache:19 
+cross:19 
+ursa:19 
+articles:19 
+60:19 
+included:19 
+address:19 
+network:19 
+fine:19 
+talking:19 
+worth:19 
+rest:19 
+psychological:19 
+obviously:19 
+date:19 
+35:19 
+newsreader	tin:19 
+appropriate:18 
+eventually:18 
+industry:18 
+usual:18 
+worse:18 
+blue:18 
+original:18 
+exactly:18 
+facts:18 
+dangerous:18 
+die:18 
+damage:18 
+expensive:18 
+occurs:18 
+total:18 
+worked:18 
+action:18 
+itself:18 
+showed:18 
+via:18 
+education:18 
+blind:18 
+double:18 
+ima:18 
+linus:18 
+m2c:18 
+muscle:18 
+rayssd:18 
+wisconsin:18 
+cambridge:18 
+sound:18 
+close:18 
+sp:18 
+fda:18 
+half:18 
+size:18 
+whose:18 
+somewhat:18 
+38:18 
+noticed:18 
+basic:18 
+apply:18 
+upon:18 
+m2c	linus	ima	ursa	aka	rayssd:18 
+linus	ima	ursa	aka	m2c:18 
+linus	ima	ursa	aka	rayssd:18 
+ima	ursa	aka	linus:18 
+m2c	ima	ursa	aka	rayssd:18 
+ima	ursa	aka	m2c:18 
+ima	ursa	aka	rayssd:18 
+ursa	aka	ima:18 
+m2c	linus	ursa	aka	rayssd:18 
+linus	ursa	aka	m2c:18 
+linus	ursa	aka	rayssd:18 
+ursa	aka	linus:18 
+m2c	ursa	aka	rayssd:18 
+ursa	aka	m2c:18 
+ursa	aka	rayssd:18 
+aka	ursa:18 
+m2c	linus	ima	aka	rayssd:18 
+linus	ima	aka	m2c:18 
+linus	ima	aka	rayssd:18 
+ima	aka	linus:18 
+m2c	ima	aka	rayssd:18 
+ima	aka	m2c:18 
+ima	aka	rayssd:18 
+aka	ima:18 
+m2c	linus	aka	rayssd:18 
+linus	aka	m2c:18 
+linus	aka	rayssd:18 
+aka	linus:18 
+m2c	aka	rayssd:18 
+aka	m2c:18 
+aka	rayssd:18 
+m2c	linus	ima	ursa	rayssd:18 
+linus	ima	ursa	m2c:18 
+linus	ima	ursa	rayssd:18 
+ima	ursa	linus:18 
+m2c	ima	ursa	rayssd:18 
+ima	ursa	m2c:18 
+ima	ursa	rayssd:18 
+ursa	ima:18 
+m2c	linus	ursa	rayssd:18 
+linus	ursa	m2c:18 
+linus	ursa	rayssd:18 
+ursa	linus:18 
+m2c	ursa	rayssd:18 
+ursa	m2c:18 
+ursa	rayssd:18 
+m2c	linus	ima	rayssd:18 
+linus	ima	m2c:18 
+linus	ima	rayssd:18 
+ima	linus:18 
+m2c	ima	rayssd:18 
+ima	m2c:18 
+ima	rayssd:18 
+m2c	linus	rayssd:18 
+linus	m2c:18 
+linus	rayssd:18 
+m2c	rayssd:18 
+sensitive:17 
+realize:17 
+sorry:17 
+open:17 
+function:17 
+cut:17 
+diagnose:17 
+pressure:17 
+write:17 
+happened:17 
+vary:17 
+containing:17 
+mouth:17 
+present:17 
+everyone:17 
+amateur:17 
+light:17 
+artificial:17 
+consulting:17 
+developing:17 
+extreme:17 
+produce:17 
+ken:17 
+received:17 
+difficult:17 
+require:17 
+responses:17 
+starting:17 
+limited:17 
+unix:17 
+experiment:17 
+drink:17 
+box:17 
+pa:17 
+illinois:17 
+23:17 
+408:16 
+chance:16 
+dry:16 
+types:16 
+posted:16 
+obvious:16 
+controlled:16 
+looked:16 
+methods:16 
+produced:16 
+source:16 
+conditions:16 
+doubt:16 
+insurance:16 
+grief:16 
+international:16 
+professional:16 
+1993apr19:16 
+ill:16 
+shows:16 
+looks:16 
+affect:16 
+purpose:16 
+barbecued:16 
+fire:16 
+wish:16 
+gain:16 
+particularly:16 
+written:16 
+occur:16 
+usenet:16 
+behavior:16 
+45:16 
+attention:16 
+cells:16 
+compared:16 
+developed:16 
+higher:16 
+interest:16 
+suggest:16 
+acute:16 
+surprised:16 
+31:16 
+amounts:16 
+engineering:16 
+radio:16 
+overall:16 
+regarding:16 
+eng:16 
+27:16 
+machine:16 
+strong:16 
+references:16 
+hot:16 
+blind	double:16 
+241:15 
+9760:15 
+figure:15 
+goes:15 
+luck:15 
+red:15 
+explain:15 
+gave:15 
+hurt:15 
+knows:15 
+quickly:15 
+alt:15 
+1993apr22:15 
+explanation:15 
+nerve:15 
+suggestions:15 
+previous:15 
+ways:15 
+lead:15 
+modern:15 
+relatively:15 
+online:15 
+activity:15 
+allow:15 
+wonder:15 
+companies:15 
+involves:15 
+computing:15 
+turned:15 
+opinion:15 
+hasn:15 
+silver:15 
+helpful:15 
+allergy:15 
+oh:15 
+sit:15 
+stress:15 
+80:15 
+active:15 
+animals:15 
+cell:15 
+essential:15 
+press:15 
+previously:15 
+training:15 
+virginia:15 
+gilbert:15 
+substance:15 
+familiar:15 
+headaches:15 
+love:15 
+main:15 
+mechanism:15 
+impossible:15 
+proposed:15 
+suffering:15 
+aware:15 
+discomfort:15 
+34:15 
+poster:15 
+merrill:15 
+doug:15 
+space:15 
+sleep:15 
+v1:15 
+replies:15 
+tend:15 
+media:15 
+70:15 
+consider:15 
+241	408	guest	9760:15 
+408	guest	241:15 
+408	guest	9760:15 
+guest	408:15 
+241	guest	9760:15 
+guest	241:15 
+guest	9760:15 
+ursa	consulting:15 
+241	408	9760:15 
+408	241:15 
+408	9760:15 
+241	9760:15 
+finding:14 
+george:14 
+hour:14 
+mr:14 
+none:14 
+potential:14 
+primary:14 
+six:14 
+toward:14 
+uses:14 
+working:14 
+donald:14 
+umich:14 
+amino:14 
+nutrition:14 
+thread:14 
+recognized:14 
+gotten:14 
+inflammatory:14 
+dan:14 
+happens:14 
+fresh:14 
+population:14 
+speak:14 
+together:14 
+33:14 
+uiuc:14 
+giving:14 
+thus:14 
+essentially:14 
+reactions:14 
+ph:14 
+toronto:14 
+stop:14 
+stopped:14 
+play:14 
+1993apr16:14 
+easily:14 
+cambridge	rayssd	m2c	linus	ima	ursa	aka	consulting:14 
+rayssd	m2c	linus	ima	ursa	aka	cambridge:14 
+rayssd	m2c	linus	ima	ursa	aka	consulting:14 
+cambridge	m2c	linus	ima	ursa	aka	consulting:14 
+m2c	linus	ima	ursa	aka	cambridge:14 
+m2c	linus	ima	ursa	aka	consulting:14 
+cambridge	rayssd	linus	ima	ursa	aka	consulting:14 
+rayssd	linus	ima	ursa	aka	cambridge:14 
+rayssd	linus	ima	ursa	aka	consulting:14 
+cambridge	linus	ima	ursa	aka	consulting:14 
+linus	ima	ursa	aka	cambridge:14 
+linus	ima	ursa	aka	consulting:14 
+cambridge	rayssd	m2c	ima	ursa	aka	consulting:14 
+rayssd	m2c	ima	ursa	aka	cambridge:14 
+rayssd	m2c	ima	ursa	aka	consulting:14 
+cambridge	m2c	ima	ursa	aka	consulting:14 
+m2c	ima	ursa	aka	cambridge:14 
+m2c	ima	ursa	aka	consulting:14 
+cambridge	rayssd	ima	ursa	aka	consulting:14 
+rayssd	ima	ursa	aka	cambridge:14 
+rayssd	ima	ursa	aka	consulting:14 
+cambridge	ima	ursa	aka	consulting:14 
+ima	ursa	aka	cambridge:14 
+ima	ursa	aka	consulting:14 
+cambridge	rayssd	m2c	linus	ursa	aka	consulting:14 
+rayssd	m2c	linus	ursa	aka	cambridge:14 
+rayssd	m2c	linus	ursa	aka	consulting:14 
+cambridge	m2c	linus	ursa	aka	consulting:14 
+m2c	linus	ursa	aka	cambridge:14 
+m2c	linus	ursa	aka	consulting:14 
+cambridge	rayssd	linus	ursa	aka	consulting:14 
+rayssd	linus	ursa	aka	cambridge:14 
+rayssd	linus	ursa	aka	consulting:14 
+cambridge	linus	ursa	aka	consulting:14 
+linus	ursa	aka	cambridge:14 
+linus	ursa	aka	consulting:14 
+cambridge	rayssd	m2c	ursa	aka	consulting:14 
+rayssd	m2c	ursa	aka	cambridge:14 
+rayssd	m2c	ursa	aka	consulting:14 
+cambridge	m2c	ursa	aka	consulting:14 
+m2c	ursa	aka	cambridge:14 
+m2c	ursa	aka	consulting:14 
+cambridge	rayssd	ursa	aka	consulting:14 
+rayssd	ursa	aka	cambridge:14 
+rayssd	ursa	aka	consulting:14 
+cambridge	ursa	aka	consulting:14 
+ursa	aka	cambridge:14 
+ursa	aka	consulting:14 
+cambridge	rayssd	m2c	linus	ima	aka	consulting:14 
+rayssd	m2c	linus	ima	aka	cambridge:14 
+rayssd	m2c	linus	ima	aka	consulting:14 
+cambridge	m2c	linus	ima	aka	consulting:14 
+m2c	linus	ima	aka	cambridge:14 
+m2c	linus	ima	aka	consulting:14 
+cambridge	rayssd	linus	ima	aka	consulting:14 
+rayssd	linus	ima	aka	cambridge:14 
+rayssd	linus	ima	aka	consulting:14 
+cambridge	linus	ima	aka	consulting:14 
+linus	ima	aka	cambridge:14 
+linus	ima	aka	consulting:14 
+cambridge	rayssd	m2c	ima	aka	consulting:14 
+rayssd	m2c	ima	aka	cambridge:14 
+rayssd	m2c	ima	aka	consulting:14 
+cambridge	m2c	ima	aka	consulting:14 
+m2c	ima	aka	cambridge:14 
